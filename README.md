@@ -86,7 +86,7 @@ This repository contains documentation and code for the practicals related to **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/software-testing-practicals.git
+   git clone https://github.com/geeta-seshapalli/software-testing-practicals.git
 
 ## 🙋‍♀️ Author
 
